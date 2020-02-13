@@ -129,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pine/proprietary/vendor/etc/.tp/thermal.conf:system/vendor/etc/.tp/thermal.conf \
     vendor/sony/pine/proprietary/vendor/etc/.tp/thermal.off.conf:system/vendor/etc/.tp/thermal.off.conf \
     vendor/sony/pine/proprietary/vendor/etc/aee-config:system/vendor/etc/aee-config \
-    vendor/sony/pine/proprietary/vendor/etc/agps_profiles_conf2.xml:system/vendor/etc/agps_profiles_conf2.xml \
     vendor/sony/pine/proprietary/vendor/etc/appwidget:system/vendor/etc/appwidget \
     vendor/sony/pine/proprietary/vendor/etc/appwidget/3dwidgets.xml:system/vendor/etc/appwidget/3dwidgets.xml \
     vendor/sony/pine/proprietary/vendor/etc/audio_device.xml:system/vendor/etc/audio_device.xml \
