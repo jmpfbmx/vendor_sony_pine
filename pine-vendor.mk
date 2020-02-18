@@ -118,7 +118,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pine/proprietary/vendor/bin/volte_imcb:system/vendor/bin/volte_imcb \
     vendor/sony/pine/proprietary/vendor/bin/volte_stack:system/vendor/bin/volte_stack \
     vendor/sony/pine/proprietary/vendor/bin/volte_ua:system/vendor/bin/volte_ua \
-    vendor/sony/pine/proprietary/vendor/bin/vtservice:system/vendor/bin/vtservice \
     vendor/sony/pine/proprietary/vendor/bin/wfca:system/vendor/bin/wfca \
     vendor/sony/pine/proprietary/vendor/bin/wifi2agps:system/vendor/bin/wifi2agps \
     vendor/sony/pine/proprietary/vendor/bin/wmt_concurrency:system/vendor/bin/wmt_concurrency \
